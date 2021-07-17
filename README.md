@@ -4,6 +4,7 @@
 
 
 # Example and importance of throw Keyword.
+# And also Example of try and Catch methods 
 
 
 
