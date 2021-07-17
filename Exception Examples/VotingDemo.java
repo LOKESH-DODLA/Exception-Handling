@@ -1,4 +1,8 @@
 
+// used for Checked Exception 
+
+// To handle any Exception We use try-Catch()-finally() methods 
+
 import java.util.*;
 class AgeException extends Exception
 {
